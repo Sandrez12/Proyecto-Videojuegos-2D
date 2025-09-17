@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\yo\\unab\\Semestre6\\Programacion de Videojuegos 2D\\Taller2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54C99584-924A-396A-FA8F-D2D6E11AC2DB}|Assembly-CSharp.csproj|c:\\yo\\unab\\semestre6\\programacion de videojuegos 2d\\taller2d\\assets\\scripts\\playercombat2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C99584-924A-396A-FA8F-D2D6E11AC2DB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercombat2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C99584-924A-396A-FA8F-D2D6E11AC2DB}|Assembly-CSharp.csproj|C:\\yo\\unab\\Semestre6\\Programacion de Videojuegos 2D\\Taller2D\\assets\\scripts\\player2dcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C99584-924A-396A-FA8F-D2D6E11AC2DB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player2dcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C99584-924A-396A-FA8F-D2D6E11AC2DB}|Assembly-CSharp.csproj|C:\\yo\\unab\\Semestre6\\Programacion de Videojuegos 2D\\Taller2D\\assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C99584-924A-396A-FA8F-D2D6E11AC2DB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C99584-924A-396A-FA8F-D2D6E11AC2DB}|Assembly-CSharp.csproj|C:\\yo\\unab\\Semestre6\\Programacion de Videojuegos 2D\\Taller2D\\assets\\scripts\\groundcheck2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C99584-924A-396A-FA8F-D2D6E11AC2DB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundcheck2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C99584-924A-396A-FA8F-D2D6E11AC2DB}|Assembly-CSharp.csproj|C:\\yo\\unab\\Semestre6\\Programacion de Videojuegos 2D\\Taller2D\\assets\\scripts\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C99584-924A-396A-FA8F-D2D6E11AC2DB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerCombat2D.cs",
+              "DocumentMoniker": "C:\\yo\\unab\\Semestre6\\Programacion de Videojuegos 2D\\Taller2D\\Assets\\Scripts\\PlayerCombat2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCombat2D.cs",
+              "ToolTip": "C:\\yo\\unab\\Semestre6\\Programacion de Videojuegos 2D\\Taller2D\\Assets\\Scripts\\PlayerCombat2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCombat2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:11:40.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerAnimator.cs",
+              "DocumentMoniker": "C:\\yo\\unab\\Semestre6\\Programacion de Videojuegos 2D\\Taller2D\\Assets\\Scripts\\PlayerAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAnimator.cs",
+              "ToolTip": "C:\\yo\\unab\\Semestre6\\Programacion de Videojuegos 2D\\Taller2D\\Assets\\Scripts\\PlayerAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAnimator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:37:34.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player2DController.cs",
+              "DocumentMoniker": "C:\\yo\\unab\\Semestre6\\Programacion de Videojuegos 2D\\Taller2D\\Assets\\Scripts\\Player2DController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player2DController.cs",
+              "ToolTip": "C:\\yo\\unab\\Semestre6\\Programacion de Videojuegos 2D\\Taller2D\\Assets\\Scripts\\Player2DController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player2DController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:36:25.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroundCheck2D.cs",
+              "DocumentMoniker": "C:\\yo\\unab\\Semestre6\\Programacion de Videojuegos 2D\\Taller2D\\Assets\\Scripts\\GroundCheck2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GroundCheck2D.cs",
+              "ToolTip": "C:\\yo\\unab\\Semestre6\\Programacion de Videojuegos 2D\\Taller2D\\Assets\\Scripts\\GroundCheck2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GroundCheck2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:35:05.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewMonoBehaviourScript.cs",
+              "DocumentMoniker": "C:\\yo\\unab\\Semestre6\\Programacion de Videojuegos 2D\\Taller2D\\Assets\\Scripts\\NewMonoBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewMonoBehaviourScript.cs",
+              "ToolTip": "C:\\yo\\unab\\Semestre6\\Programacion de Videojuegos 2D\\Taller2D\\Assets\\Scripts\\NewMonoBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewMonoBehaviourScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:05:56.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
